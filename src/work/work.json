@@ -1,0 +1,136 @@
+{
+    "futurefast":
+        {   
+            "id":1,
+            "title":"Engineer",
+            "company": {
+                "name":"Futurefast Technologies",
+                "url":"https://futurefast.co.ke/"
+            },
+            "period":{
+                "from":{
+                    "date":"July 2019"
+
+                },
+                "to":{
+                    "date":"January 2020"
+
+                }
+
+            },
+            "responsibilities":[
+                "Write modern, performant, maintainable code for a diverse array of client and internal projects",
+                "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, React, WordPress, and Vue",
+                "Communicate with teams of engineers, designers, producers, and clients on a daily basis"
+            ]
+            
+        },
+
+        "oaknet":
+        {
+            "id":2,
+            "title":"Intern",
+            "company": {
+                "name":"Oaknet Business Limited",
+                "url":"https://oaknetbusiness.com/"
+            },
+            "period":{
+                "from":{
+                    "date":"May 2019"
+
+                },
+                "to":{
+                    "date":"June 2019"
+
+                }
+
+            },
+            "responsibilities":[
+                "Writing, testing, and debugging code for software applications. This involves implementing features, fixing issues, and following coding best practices.",
+                "Collaborate on projects, participate in team meetings, and contribute to discussions regarding software design and functionality.",
+                "Learning new programming languages, frameworks , or tools, as well as staying updated with industry trends and best practices.",
+                "Taking part in training sessions, workshops, or seminars offered by the company can help you enhance your skills and knowledge"
+
+            ]
+            
+        },
+
+        "bluereveal":
+        {
+            "id":3,
+            "title":"Lead Engineer",
+            "company": {
+                "name":"BlueReveal Tech start-up",
+                "url":"https://oaknetbusiness.com/"
+            },
+            "period":{
+                "from":{
+                    "date":"March 2020"
+
+                },
+                "to":{
+                    "date":"January 2021"
+
+                }
+
+            },
+            "responsibilities":[
+                "Designing software solutions, creating technical specifications, and architecting systems",
+                "Collaborate with other stakeholders such as product managers, UX designers, and QA engineers to gather requirements, provide technical insights, and ensure alignment between technical decisions and business goals",
+                "Address complex technical challenges, troubleshoot issues, and provide guidance in resolving problems.",
+                "Interact with stakeholders, such as clients, product owners, or executives, to understand their requirements, provide technical insights, and manage expectations. "
+            ]
+            
+        },
+        "freelance":
+        {
+            "id":4,
+            "title":"Software Engineer",
+            "company": {
+                "name":"Freelance Upwork",
+                "url":"https://oaknetbusiness.com/"
+            },
+            "period":{
+                "from":{
+                    "date":"January 2020"
+                    
+                },
+                "to":{
+                    "date":"To date"
+
+                }
+
+            },
+            "responsibilities":[
+                "Write modern, performant, maintainable code for a diverse array of client and internal projects",
+                "Interact with stakeholders, such as clients, product owners, or executives, to understand their requirements, provide technical insights, and manage expectations. "
+            ]
+            
+        },
+        "deskim":
+        {
+            "id":5,
+            "title":"Director",
+            "company": {
+                "name":"Deskim Hardware Limited",
+                "url":"https://oaknetbusiness.com/"
+            },
+            "period":{
+                "from":{
+                    "date":"August 2021"
+
+                },
+                "to":{
+                    "date":"January 2023"
+
+                }
+
+            },
+            "responsibilities":[
+                "Building and maintaining relationships with key stakeholders, including customers, investors, partners, and regulatory bodies.","Overseeing the company's supply chain and operations to ensure efficient production and delivery of hardware products.","Developing and implementing the overall strategic direction of the company","Providing strong leadership to the company and overseeing the performance of the executive team.","Managing the financial aspects of the hardware company."
+            ]
+            
+        }
+
+    
+}

@@ -1,0 +1,55 @@
+
+.contact{
+    width: 50%;
+    line-height: 170%;
+    margin: 100px auto;
+    text-align: center;
+    color: var(--bright-slate);
+}
+
+.overline{
+    color: var(--light-purple);
+    font-family: var(--font-mono);
+    font-size: 12px;
+}
+
+.overline::before{
+    content: "04.";
+    padding-right: 7px;
+}
+
+.contact p {
+
+    margin: 70px 0;
+}
+
+.contact-btn {
+
+    border-radius: 3px;
+    padding: 15px 25px;
+    font-size: 13px;
+    color: var(--light-purple);
+    border: 1px solid var(--light-purple);
+    background-color: var(--dark-purple);
+    z-index: 1;
+
+
+}
+
+
+
+.contact-btn:hover {
+   background-color: var(--navish-purple);
+
+   
+}
+
+
+@media screen and (max-width:720px) {
+    
+    .contact{
+        width: 80%;
+
+    }
+
+}
